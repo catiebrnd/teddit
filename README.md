@@ -1,4 +1,4 @@
-# Teddit
+# [Teddit](https://materials.generalassemb.ly/bewd/new-york-city/20/lessons/2#classwork)
 
 First, fork this repository and run:
 
@@ -9,14 +9,16 @@ git clone https://github.com/your-username-here/teddit.git
 
 (be sure to fill in your actual GitHub username there).
 
-Next, copy the following code into sublime text, and save it as `~/Sites/teddit/your_name_here/teddit.rb`:
+Next, copy the following code into sublime text, and save it as
+`~/Sites/teddit/your_name_here/teddit.rb`:
 
 ```ruby
 # Teddit Conditionals
 
 # Let's add a new Teddit feature. Automatic upvotes!
 # Complete the application below.
-# Where you see comments (lines that begin with #) replace it with code so that the program works.
+# Where you see comments (lines that begin with #) replace it with code so that
+# the program works.
 
 def get_input
   # Get input from the user.
@@ -39,7 +41,8 @@ upvotes = calculate_upvotes(story)
 puts "New story added! #{story}, Current Upvotes: #{upvotes}"
 ```
 
-Follow the instructions in the comments, and when you are finished, save the file, commit the code to Git and push it to GitHub:
+Follow the instructions in the comments, and when you are finished, save the
+file, commit the code to Git and push it to GitHub:
 
 ```bash
 cd ~/Sites/teddit/your_name_here
